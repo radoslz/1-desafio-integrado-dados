@@ -1,0 +1,66 @@
+Código do Município;Município;Estado;Ano de Referência;Unidades;Nome da Unidade;UP007 - Quantidade de RDO e RPU recebida na unidade de processamento;UP008 - Quantidade de RSS recebida na unidade de processamento;UP009 - Quantidade de RIN recebida na unidade de processamento;UP010 - Quantidade de RCC recebida na unidade de processamento;UP011 - Quantidade de outros tipos de resíduos recebida na unidade de processamento;UP025 - Municípios de origem dos resíduos;UP067 - Quantidade de RPO recebida na unidade de processamento;UP080 - Quantidade total de resíduos recebida na unidade de processamento por cada município;UP003 - Tipo de unidade;UP004 - Operador da unidade
+210043;Alto Alegre do Maranhão;MA;2019;2100434000;LIXÃO MUNICIPAL DE ALTO ALEGRE DO MARANHÃO;2000;0;;2000;0;Alto Alegre do Maranhão/MA;1000;5000;Lixão;Empresa privada
+210047;Alto Alegre do Pindaré;MA;2019;3901;Lixão;8000;0;;0;0;Alto Alegre do Pindaré/MA;0;8000;Lixão;Prefeitura ou SLU
+210055;Amapá do Maranhão;MA;2019;7508;LIXÃO;1280;0;;0;0;Amapá do Maranhão/MA;0;1280;Lixão;Prefeitura ou SLU
+210080;Anapurus;MA;2019;2480;Lixão Municipal;2405;0;;0;0;Anapurus/MA;0;2405;Lixão;Prefeitura ou SLU
+210083;Apicum-Açu;MA;2019;2315;Lixão com Coleta Seletiva;2180;0;;0;0;Apicum-Açu/MA;0;2180;Lixão;Prefeitura ou SLU
+210100;Arari;MA;2019;3080;lixão;6500;0;;300;0;Arari/MA;0;6800;Lixão;Prefeitura ou SLU
+210135;Bacurituba;MA;2019;10563;Lixão;94;0;;0;0;Bacurituba/MA;0;94;Lixão;Outro
+210140;Balsas;MA;2019;2720;LIXÃO DE BALSAS;21104;0;;0;0;Balsas/MA;0;21104;Lixão;Empresa privada
+210180;Benedito Leite;MA;2019;2101804000;LIXÃO;108;;;65;;Benedito Leite/MA;;173;Lixão;Prefeitura ou SLU
+210190;Bequimão;MA;2019;9859;Lixão;3025;36;;170;10;Bequimão/MA;30;3271;Lixão;Prefeitura ou SLU
+210200;Bom Jardim;MA;2019;3040;Lixão;8100;0;;0;0;Bom Jardim/MA;0;8100;Lixão;Prefeitura ou SLU
+210220;Buriti;MA;2019;6007;LIXÃO;2880;0;;0;2880;Buriti/MA;0;5760;Lixão;Prefeitura ou SLU
+210237;Cachoeira Grande;MA;2019;8108;Lixao Mirinzal;800;1;;132;32;Cachoeira Grande/MA;7;972;Lixão;Prefeitura ou SLU
+210270;Cantanhede;MA;2019;7768;Lixão Municipal;4300;1,6;;0,5;520;Cantanhede/MA;309;5131,1;Lixão;Prefeitura ou SLU
+210275;Capinzal do Norte;MA;2019;10497;lixão/ aterro controlado capinzal;520;0;;0;0;Capinzal do Norte/MA;0;520;Aterro controlado;Prefeitura ou SLU
+210290;Carutapera;MA;2019;10618;Lixão de Carutapera;18000;1;;1;1;Carutapera/MA;1;18004;Lixão;Prefeitura ou SLU
+210300;Caxias;MA;2019;1254;LIXÃO - TESO DURO;86597;;;;;Caxias/MA;;86597;Lixão;Prefeitura ou SLU
+210375;Davinópolis;MA;2019;3851;LIXÃO DE DAVINOPOLIS;5200;0;;0;0;Davinópolis/MA;0;5200;Lixão;Prefeitura ou SLU
+210390;Duque Bacelar;MA;2019;7941;LIXÃO PÚBLICO MUNICIPAL;1550;0;;0;0;Duque Bacelar/MA;0;1550;Lixão;Prefeitura ou SLU
+210400;Esperantinópolis;MA;2019;1908;Lixão de Esperantinópolis;6506;0;;0;0;Esperantinópolis/MA;0;6506;Lixão;Empresa privada
+210407;Feira Nova do Maranhão;MA;2019;7930;ATERRO DA PREFEITURA;502;0;;0;0;Feira Nova do Maranhão/MA;0;502;Lixão;Outro
+210420;Fortuna;MA;2019;4259;LIXÃO;1550;0;;0;0;Fortuna/MA;0;1550;Lixão;Prefeitura ou SLU
+210455;Governador Edison Lobão;MA;2019;8875;LIXAO;5800;0;;0;0;Governador Edison Lobão/MA;0;5800;Lixão;Prefeitura ou SLU
+210465;Governador Newton Bello;MA;2019;4612;Lixão;1340;0;;0;0;Governador Newton Bello/MA;0;1340;Lixão;Prefeitura ou SLU
+210470;Graça Aranha;MA;2019;3356;Lixão;1020;0;;80;0;Graça Aranha/MA;0;1100;Lixão;Prefeitura ou SLU
+210530;Imperatriz;MA;2019;9695;Associação de Catadores de Material Reciclável de Imperatriz - ASCAMARI;463;;;;;Imperatriz/MA;;463;Unidade de triagem (galpão ou usina);Associação de catadores
+210530;Imperatriz;MA;2019;9704;Lixão Municipal de Imperatriz;2760;15;;140;10;Imperatriz/MA;20;2945;Lixão;Prefeitura ou SLU
+210535;Itaipava do Grajaú;MA;2019;9642;Lixão de Itaipava do Grajaú;1840;0;;0;0;Itaipava do Grajaú/MA;0;1840;Lixão;Prefeitura ou SLU
+210545;Jatobá;MA;2019;1222;Lixão;2900;500;;2500;100;Jatobá/MA;100;6100;Lixão;Prefeitura ou SLU
+210550;João Lisboa;MA;2019;1965;LIXÃO;10000;0;;800;0;João Lisboa/MA;0;10800;Lixão;Prefeitura ou SLU
+210592;Lagoa do Mato;MA;2019;2105924000;Lixão de Lagoa do Mato;1346;0;;0;0;Lagoa do Mato/MA;0;1346;Lixão;Prefeitura ou SLU
+210596;Lagoa Grande do Maranhão;MA;2019;10522;Lixão;720;0;;0;0;Lagoa Grande do Maranhão/MA;0;720;Lixão;Prefeitura ou SLU
+210580;Lago do Junco;MA;2019;3404;lixão;1410;0;;0;0;Lago do Junco/MA;0;1410;Lixão;Prefeitura ou SLU
+210600;Lima Campos;MA;2019;2370;Lixão Municipal de Lima Campos;4910;0;;0;0;Lima Campos/MA;0;4910;Lixão;Prefeitura ou SLU
+210620;Luís Domingues;MA;2019;2106204000;luis domingues;1550;0;;0;0;Luís Domingues/MA;0;1550;Lixão;Prefeitura ou SLU
+210630;Magalhães de Almeida;MA;2019;4768;lixão;5005;0;;0;0;Magalhães de Almeida/MA;0;5005;Lixão;Prefeitura ou SLU
+210632;Maracaçumé;MA;2019;2984;Lixão pm maracaçume;7700;0;;0;0;Maracaçumé/MA;0;7700;Lixão;Outro
+210635;Marajá do Sena;MA;2019;8364;Lixão de Marajá do Sena;1030,2;0;;0;0;Marajá do Sena/MA;0;1030,2;Lixão;Prefeitura ou SLU
+210680;Mirinzal;MA;2019;2106804001;LIXÃO;1350;0;;0;0;Mirinzal/MA;0;1350;Lixão;Prefeitura ou SLU
+210720;Nina Rodrigues;MA;2019;4639;Aterro sanitário;1550;0;;0;0;Nina Rodrigues/MA;0;1550;Aterro controlado;Prefeitura ou SLU
+210735;Nova Olinda do Maranhão;MA;2019;5944;Aterro sanitario de nova olinda;4735;0;;50;35;Nova Olinda do Maranhão/MA;0;4820;Aterro controlado;Prefeitura ou SLU
+210770;Paraibano;MA;2019;3112;Lixão de Paraibano;14350;0;;0;0;Paraibano/MA;0;14350;Lixão;Prefeitura ou SLU
+210800;Pastos Bons;MA;2019;5729;Lixão Controlado;3600;0;;0;0;Pastos Bons/MA;0;3600;Lixão;Prefeitura ou SLU
+210820;Pedreiras;MA;2019;4107;Lixão;11955;0;;0;0;Pedreiras/MA;0;11955;Lixão;Prefeitura ou SLU
+210820;Pedreiras;MA;2019;10271;Vala RSS;;2;;;;Pedreiras/MA;;2;Vala especifica de RSS;Empresa privada
+210890;Poção de Pedras;MA;2019;4810;Lixão;1750;0;;0;0;Poção de Pedras/MA;0;1750;Lixão;Prefeitura ou SLU
+210940;Primeira Cruz;MA;2019;2982;LIXÃO EM VALA;1440;0;;0;0;Primeira Cruz/MA;0;1440;Lixão;Prefeitura ou SLU
+210960;Rosário;MA;2019;9077;Aterro Sanitário;4424;0;;0;0;Rosário/MA;0;4424;Aterro sanitário;Empresa privada
+210960;Rosário;MA;2019;9077;Aterro Sanitário;436771,2;0;;0;0;São Luís/MA;0;436771,2;Aterro sanitário;Empresa privada
+210970;Sambaíba;MA;2019;2109704000;lixão;433;0;;0;0;Sambaíba/MA;0;433;Lixão;Empresa privada
+211000;Santa Luzia;MA;2019;10221;COOCARESL;4365,7;;;;;Santa Luzia/MA;;4365,7;Unidade de triagem (galpão ou usina);Associação de catadores
+211000;Santa Luzia;MA;2019;2110004000;Lixão de Santa Luzia;22715;0;;0;0;Santa Luzia/MA;0;22715;Lixão;Prefeitura ou SLU
+211010;Santa Quitéria do Maranhão;MA;2019;8885;lixão municipal;10000;0;;0;0;Santa Quitéria do Maranhão/MA;0;10000;Lixão;Prefeitura ou SLU
+211027;Santo Amaro do Maranhão;MA;2019;9389;Lixão de Santo Amaro;468;0;;0;0;Santo Amaro do Maranhão/MA;0;468;Lixão;Prefeitura ou SLU
+211107;São João do Soter;MA;2019;2111074000;LIXÃO DA BAIXA FUNDA;4703;4696,8;;2;0;São João do Soter/MA;6,2;9408;Lixão;Empresa privada
+211110;São João dos Patos;MA;2019;2004;Lixão;7000;0;;800;0;São João dos Patos/MA;0;7800;Lixão;Prefeitura ou SLU
+211150;São Mateus do Maranhão;MA;2019;8044;LIXÃO MUNICIPAL;30000;4000;;3000;1000;São Mateus do Maranhão/MA;2000;40000;Lixão;Prefeitura ou SLU
+211160;São Raimundo das Mangabeiras;MA;2019;2111604000;ATERRO CONTROLADO DE SÃO RAIMUNDO DAS MANGABEIR;2300;0;;1800;0;São Raimundo das Mangabeiras/MA;0;4100;Aterro controlado;Prefeitura ou SLU
+211174;Senador Alexandre Costa;MA;2019;7456;LIXÃO DA BR;5200;7,9;;103;0;Senador Alexandre Costa/MA;0;5310,9;Lixão;Prefeitura ou SLU
+211220;Timon;MA;2019;2112204000;Lixão;100000;0;;0;0;Timon/MA;0;100000;Lixão;Prefeitura ou SLU
+211220;Timon;MA;2019;2112204001;Fabrica de Reciclagem;700;;;;;Timon/MA;;700;Unidade de triagem (galpão ou usina);Prefeitura ou SLU
+211223;Trizidela do Vale;MA;2019;3395;lixão;3456;0;;0;0;Trizidela do Vale/MA;0;3456;Aterro controlado;Prefeitura ou SLU
+211270;Vargem Grande;MA;2019;8923;LIXÃO DE VARGEM GRANDE;7776;0;;0;0;Vargem Grande/MA;0;7776;Lixão;Prefeitura ou SLU
+211300;Vitorino Freire;MA;2019;2113004000;Lixão do Liberato;15000;0;;0;0;Vitorino Freire/MA;0;15000;Lixão;Prefeitura ou SLU
+TOTAL da AMOSTRA:;---;---;---;---;---;;;;;;;;;;

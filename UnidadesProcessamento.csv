@@ -1,0 +1,85 @@
+Código do Município;Município;Estado;Ano de Referência;Unidades;Nome da Unidade;Tipo da Unidade;Operador;UP012 - Recebeu resíduos de outros municípios?;UP027 - Existe cercamento da área?;UP030 - Qual a frequência do recobrimento dos resíduos?;UP031 - Existe drenagem de gases?;UP032 - Existe sistema de drenagem do líquido percolado (chorume)?;UP033 - Existe unidade de tratamento do líquido percolado (chorume) na area interna da unidade?;UP050 - Tipo de licença ambiental emitida pelo órgão de controle ambiental;UP052 - Existe algum tipo de aproveitamento dos gases drenados?;UP066 - Ano de cadastro da unidade
+210043;Alto Alegre do Maranhão;MA;2019;2100434000;LIXÃO MUNICIPAL DE ALTO ALEGRE DO MARANHÃO;Lixão;Empresa privada;Não;Sim;Semanal;Não;Não;Não;Outro tipo;Não;2010
+210047;Alto Alegre do Pindaré;MA;2019;3901;Lixão;Lixão;Prefeitura ou SLU;Não;Não;Semanal;Não;Não;Não;Não existe;Não;2013
+210055;Amapá do Maranhão;MA;2019;7508;LIXÃO;Lixão;Prefeitura ou SLU;Não;Não;Não é realizado;Não;Não;Não;Não existe;Não;2016
+210080;Anapurus;MA;2019;2480;Lixão Municipal;Lixão;Prefeitura ou SLU;Não;;Semanal;;;;Não existe;;2012
+210083;Apicum-Açu;MA;2019;2315;Lixão com Coleta Seletiva;Lixão;Prefeitura ou SLU;Não;Não;Não é realizado;Não;Não;Não;Prévia;Não;2012
+210100;Arari;MA;2019;3080;lixão;Lixão;Prefeitura ou SLU;Não;;Diária;;;;Não existe;;2012
+210135;Bacurituba;MA;2019;8353;Local para incineração;Outra;Prefeitura ou SLU;Não;;;;;;Não existe;;2017
+210135;Bacurituba;MA;2019;10563;Lixão;Lixão;Outro;Não;Não;Semanal;Não;Não;Não;Não existe;Não;2019
+210140;Balsas;MA;2019;2720;LIXÃO DE BALSAS;Lixão;Empresa privada;Não;Sim;Diária;Não;Não;Não;Não existe;Não;2012
+210180;Benedito Leite;MA;2019;2101804000;LIXÃO;Lixão;Prefeitura ou SLU;Não;;;;;;Outro tipo;;2009
+210190;Bequimão;MA;2019;9859;Lixão;Lixão;Prefeitura ou SLU;Não;Não;Quinzenal;Não;Não;Não;Não existe;Não;2019
+210200;Bom Jardim;MA;2019;3040;Lixão;Lixão;Prefeitura ou SLU;Não;;Semanal;;;;Não existe;;2012
+210220;Buriti;MA;2019;6007;LIXÃO;Lixão;Prefeitura ou SLU;Não;Não;Diária;Não;Não;Não;Não existe;Não;2014
+210237;Cachoeira Grande;MA;2019;8108;Lixao Mirinzal;Lixão;Prefeitura ou SLU;Não;Não;Diária;Não;Não;Não;Não existe;Não;2016
+210270;Cantanhede;MA;2019;7768;Lixão Municipal;Lixão;Prefeitura ou SLU;Não;Sim;Semanal;Sim;Não;Não;Não existe;Não;2016
+210275;Capinzal do Norte;MA;2019;10497;lixão/ aterro controlado capinzal;Aterro controlado;Prefeitura ou SLU;Não;Sim;Não é realizado;Não;Não;Não;Não existe;Não;2019
+210290;Carutapera;MA;2019;10618;Lixão de Carutapera;Lixão;Prefeitura ou SLU;Não;Sim;Não é realizado;Não;Não;Não;Não existe;Não;2019
+210300;Caxias;MA;2019;1254;LIXÃO - TESO DURO;Lixão;Prefeitura ou SLU;Não;;Não é realizado;;;;Não existe;;2011
+210375;Davinópolis;MA;2019;3851;LIXÃO DE DAVINOPOLIS;Lixão;Prefeitura ou SLU;Não;;Quinzenal;;;;Outro tipo;;2013
+210390;Duque Bacelar;MA;2019;7941;LIXÃO PÚBLICO MUNICIPAL;Lixão;Prefeitura ou SLU;Não;Não;Não é realizado;Não;Não;Não;Não existe;Não;2016
+210390;Duque Bacelar;MA;2019;2103904000;Lixão de Duque Bacelar;Lixão;;;;;;;;;;2010
+210400;Esperantinópolis;MA;2019;1908;Lixão de Esperantinópolis;Lixão;Empresa privada;Não;Não;Diária;Não;Não;Não;Não existe;Não;2012
+210407;Feira Nova do Maranhão;MA;2019;7930;ATERRO DA PREFEITURA;Lixão;Outro;Não;;Não é realizado;;;;Prévia;;2016
+210420;Fortuna;MA;2019;4259;LIXÃO;Lixão;Prefeitura ou SLU;Não;Não;Não é realizado;Não;Não;Não;Não existe;Não;2013
+210455;Governador Edison Lobão;MA;2019;8875;LIXAO;Lixão;Prefeitura ou SLU;Não;;Diária;;;;Não existe;;2017
+210465;Governador Newton Bello;MA;2019;4612;Lixão;Lixão;Prefeitura ou SLU;Não;Não;Não é realizado;Não;Não;Não;Não existe;Não;2013
+210470;Graça Aranha;MA;2019;3356;Lixão;Lixão;Prefeitura ou SLU;Não;;Semanal;Não;Não;Não;Não existe;Não;2012
+210530;Imperatriz;MA;2019;2105304000;Aterro Controlado;Aterro controlado;;;;;;;;;;2002
+210530;Imperatriz;MA;2019;2105304001;Vala Específica para RSS;Vala especifica de RSS;;;;;;;;;;2002
+210530;Imperatriz;MA;2019;9704;Lixão Municipal de Imperatriz;Lixão;Prefeitura ou SLU;Não;Não;Não é realizado;Não;Não;Não;Não existe;Não;2018
+210530;Imperatriz;MA;2019;9695;Associação de Catadores de Material Reciclável de Imperatriz - ASCAMARI;Unidade de triagem (galpão ou usina);Associação de catadores;Não;;;;;;Operação;;2018
+210535;Itaipava do Grajaú;MA;2019;9642;Lixão de Itaipava do Grajaú;Lixão;Prefeitura ou SLU;Não;Sim;Diária;Não;Não;Não;Não existe;Não;2018
+210545;Jatobá;MA;2019;1222;Lixão;Lixão;Prefeitura ou SLU;Não;Não;Semanal;Não;Não;Não;Não existe;Não;2011
+210550;João Lisboa;MA;2019;1965;LIXÃO;Lixão;Prefeitura ou SLU;Não;;Quinzenal;;;;Não existe;;2012
+210592;Lagoa do Mato;MA;2019;2105924000;Lixão de Lagoa do Mato;Lixão;Prefeitura ou SLU;Não;;Não é realizado;;;;Não existe;;2010
+210596;Lagoa Grande do Maranhão;MA;2019;10522;Lixão;Lixão;Prefeitura ou SLU;Não;;Quinzenal;;;;Não existe;;2019
+210580;Lago do Junco;MA;2019;3404;lixão;Lixão;Prefeitura ou SLU;Não;Não;Não é realizado;Não;Não;Não;Não existe;Não;2013
+210580;Lago do Junco;MA;2019;1694;Aterro Sanitário;Aterro sanitário;;;;;;;;;;2012
+210600;Lima Campos;MA;2019;7646;Novo Lixão;Lixão;;;;;;;;;;2016
+210600;Lima Campos;MA;2019;2370;Lixão Municipal de Lima Campos;Lixão;Prefeitura ou SLU;Não;;Semanal;;;;Não existe;;2012
+210620;Luís Domingues;MA;2019;2106204000;luis domingues;Lixão;Prefeitura ou SLU;Não;Não;Não é realizado;Não;Não;Não;Não existe;Não;2009
+210630;Magalhães de Almeida;MA;2019;4768;lixão;Lixão;Prefeitura ou SLU;Não;;Não é realizado;;;;Outro tipo;;2013
+210632;Maracaçumé;MA;2019;2984;Lixão pm maracaçume;Lixão;Outro;Não;Não;Diária;Não;Não;Não;Não existe;Não;2012
+210635;Marajá do Sena;MA;2019;8364;Lixão de Marajá do Sena;Lixão;Prefeitura ou SLU;Não;Não;Diária;Não;Não;Não;Não existe;Não;2017
+210680;Mirinzal;MA;2019;2106804001;LIXÃO;Lixão;Prefeitura ou SLU;Não;Não;Não é realizado;Não;Não;Não;Não existe;Não;2009
+210680;Mirinzal;MA;2019;2106804000;Lixão Mirinzal;Lixão;;;;;;;;;;2009
+210720;Nina Rodrigues;MA;2019;4639;Aterro sanitário;Aterro controlado;Prefeitura ou SLU;Não;;Semanal;;;;Instalação;;2013
+210735;Nova Olinda do Maranhão;MA;2019;5944;Aterro sanitario de nova olinda;Aterro controlado;Prefeitura ou SLU;Não;Sim;Quinzenal;Sim;Sim;Sim;Operação;Não;2014
+210770;Paraibano;MA;2019;3112;Lixão de Paraibano;Lixão;Prefeitura ou SLU;Não;;Não é realizado;;;;Instalação;;2012
+210800;Pastos Bons;MA;2019;5729;Lixão Controlado;Lixão;Prefeitura ou SLU;Não;Sim;Diária;Não;Não;Não;Não existe;Sim;2014
+210820;Pedreiras;MA;2019;10271;Vala RSS;Vala especifica de RSS;Empresa privada;Não;;;;;;Não existe;;2019
+210820;Pedreiras;MA;2019;4107;Lixão;Lixão;Prefeitura ou SLU;Não;Não;Quinzenal;Não;Não;Não;Não existe;Não;2013
+210890;Poção de Pedras;MA;2019;4810;Lixão;Lixão;Prefeitura ou SLU;Não;;Diária;;;;Não existe;;2013
+210940;Primeira Cruz;MA;2019;4683;ATERRO CONTROLADO;Lixão;;;;;;;;;;2013
+210940;Primeira Cruz;MA;2019;2982;LIXÃO EM VALA;Lixão;Prefeitura ou SLU;Não;;Diária;;;;Não existe;;2012
+210960;Rosário;MA;2019;9077;Aterro Sanitário;Aterro sanitário;Empresa privada;Sim;;Diária;;;;Operação;;2017
+210970;Sambaíba;MA;2019;2109704000;lixão;Lixão;Empresa privada;Não;Sim;Semanal;;;;Não existe;;2009
+211000;Santa Luzia;MA;2019;10221;COOCARESL;Unidade de triagem (galpão ou usina);Associação de catadores;Não;;;;;;Outro tipo;;2019
+211000;Santa Luzia;MA;2019;2110004000;Lixão de Santa Luzia;Lixão;Prefeitura ou SLU;Não;;Diária;Não;;;Operação;;2005
+211010;Santa Quitéria do Maranhão;MA;2019;8885;lixão municipal;Lixão;Prefeitura ou SLU;Não;Não;Não é realizado;Não;Não;Não;Não existe;Não;2017
+211027;Santo Amaro do Maranhão;MA;2019;9389;Lixão de Santo Amaro;Lixão;Prefeitura ou SLU;Não;Sim;Não é realizado;Não;Não;Não;Não existe;Não;2018
+211107;São João do Soter;MA;2019;2111074000;LIXÃO DA BAIXA FUNDA;Lixão;Empresa privada;Não;Sim;Diária;Não;Não;Não;Não existe;Não;2009
+211110;São João dos Patos;MA;2019;2004;Lixão;Lixão;Prefeitura ou SLU;Não;Não;Não é realizado;Não;Não;Não;Não existe;Não;2012
+211130;São Luís;MA;2019;8055;Unidades de Ecoponto;Outra;Empresa privada;Não;;;;;;Operação;;2016
+211130;São Luís;MA;2019;7493;Sterycicle Tratamento de Resíduos;Unid. tratamento por microondas ou autoclave;Empresa privada;Não;;;;;;Operação;;2016
+211130;São Luís;MA;2019;2257;Ecopontos;Outra;;;;;;;;;;2012
+211130;São Luís;MA;2019;2111304002;Serquip Tratamento de Resíduos de Saúde;Unid. tratamento por microondas ou autoclave;;;;;;;;;;2008
+211130;São Luís;MA;2019;8053;Unidade de Compostagem;Unidade de compostagem (pátio ou usina);;;;;;;;;;2016
+211130;São Luís;MA;2019;2259;CTRS;Unidade de triagem (galpão ou usina);;;;;;;;;;2012
+211130;São Luís;MA;2019;2111304001;Galpão de Triagem;Unidade de triagem (galpão ou usina);;;;;;;;;;2004
+211130;São Luís;MA;2019;2111304000;Aterro Municipal da Ribeira (-- antigo Aterro controlado --);Área em recuperação;;;;;;;;;;2004
+211130;São Luís;MA;2019;2258;Pátio de Compostagem;Unidade de compostagem (pátio ou usina);;;;;;;;;;2012
+211130;São Luís;MA;2019;7435;TRANSBORDO RIBEIRA;Unidade de transbordo;Empresa privada;Não;;;;;;Operação;;2016
+211150;São Mateus do Maranhão;MA;2019;8044;LIXÃO MUNICIPAL;Lixão;Prefeitura ou SLU;Não;;Quinzenal;;;;Não existe;;2016
+211160;São Raimundo das Mangabeiras;MA;2019;2111604000;ATERRO CONTROLADO DE SÃO RAIMUNDO DAS MANGABEIR;Aterro controlado;Prefeitura ou SLU;Não;;Diária;;;;Não existe;;2010
+211174;Senador Alexandre Costa;MA;2019;7456;LIXÃO DA BR;Lixão;Prefeitura ou SLU;Não;Sim;Diária;Não;Não;Não;Não existe;Não;2016
+211220;Timon;MA;2019;2112204001;Fabrica de Reciclagem;Unidade de triagem (galpão ou usina);Prefeitura ou SLU;Não;;;;;;Outro tipo;;2005
+211220;Timon;MA;2019;1931;lixao;Lixão;;;;;;;;;;2012
+211220;Timon;MA;2019;2112204000;Lixão;Lixão;Prefeitura ou SLU;Não;;Diária;;;;Outro tipo;;2005
+211223;Trizidela do Vale;MA;2019;1739;Aterro Sanitário;Aterro controlado;;;;;;;;;;2012
+211223;Trizidela do Vale;MA;2019;3395;lixão;Aterro controlado;Prefeitura ou SLU;Não;Sim;Quinzenal;Não;Não;Não;Não existe;Não;2013
+211270;Vargem Grande;MA;2019;8923;LIXÃO DE VARGEM GRANDE;Lixão;Prefeitura ou SLU;Não;Não;Diária;Não;Não;Não;Não existe;Não;2017
+211300;Vitorino Freire;MA;2019;2113004000;Lixão do Liberato;Lixão;Prefeitura ou SLU;Não;Não;Semanal;Não;Não;Não;Não existe;Não;2010
+TOTAL da AMOSTRA:;---;---;---;---;---;---;---;;;;;;;;;
